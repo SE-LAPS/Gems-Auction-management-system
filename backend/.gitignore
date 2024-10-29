@@ -1,0 +1,56 @@
+﻿# .NET Core generated files
+bin/
+obj/
+
+# Visual Studio user-specific files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Rider user-specific files
+.idea/
+
+# Mono auto generated files
+mono_crash.*
+
+# Folders for build artifacts
+project.lock.json
+project.fragment.lock.json
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Logs and database files
+*.log
+*.tlog
+*.pdb
+*.mdb
+*.opendb
+*.sdf
+*.dbmdl
+*.jfm
+*.ldf
+*.ndf
+
+# User-specific configurations
+.vs/
+.env
+*.env
+appsettings.Development.json
+appsettings.Local.json
+
+# Temporary files
+.DS_Store
+*.TMP
+*.temp
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
