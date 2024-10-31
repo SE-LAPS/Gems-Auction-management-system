@@ -69,8 +69,7 @@ const Categories = () => {
             <div className='section-title3 text-white'>
               <h2 className='text-white'>Auction Category.</h2>
               <p>
-                Feel free adapt this based on the specific managed services,
-                features
+              Bid for Brilliance – Precious Gems, Priceless Moments.
               </p>
             </div>
 
