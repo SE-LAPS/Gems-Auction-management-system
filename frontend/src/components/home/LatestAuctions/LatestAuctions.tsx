@@ -30,8 +30,7 @@ const LatestAuctions = () => {
           <div className='section-title3 text-center'>
             <h2>New Live Auction.</h2>
             <p>
-              Feel free adapt this based on the specific managed services,
-              features
+            Your Next Gem Awaits – Bid with Brilliance
             </p>
           </div>
         </Col>
