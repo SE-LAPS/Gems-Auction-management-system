@@ -1,5 +1,5 @@
 .home-banner {
- background-image: url(banner.png);
+ background-image: url(https://i.pinimg.com/originals/98/55/a6/9855a65f3248e142ddcc28e626403130.jpg);
  background-size: cover;
  background-repeat: no-repeat;
  background-position: 50%;
@@ -10,7 +10,7 @@
   overflow: hidden;
 
   .banner-content-area {
-   border-right: 1px solid hsla(0, 0%, 100%, .1);
+   border-right: 1px solid hsl(211, 100%, 50%);
    padding-top: 118px;
 
    .banner-content {
@@ -28,7 +28,7 @@
      align-items: center;
      gap: 8px;
      padding: 10px 11px;
-     background-color: hsla(0, 0%, 100%, .1);
+     background-color: hsla(250, 100%, 35%, 0.778);
      border-radius: 50px;
      margin-bottom: 15px;
 
