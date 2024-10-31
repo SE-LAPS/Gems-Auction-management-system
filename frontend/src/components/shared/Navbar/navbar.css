@@ -86,11 +86,11 @@
 }
 
 .top-nav-left .contact-area li a:hover {
- color: #01aa85;
+ color: #0172aa;
 }
 
 .top-nav-left .contact-area li a:hover svg {
- fill: #01aa85;
+ fill: #0185aa;
 }
 
 .top-nav-right {
@@ -123,8 +123,8 @@
 }
 
 .top-nav-right>ul li a:hover {
- background-color: #01aa85;
- border-color: #01aa85;
+ background-color: #0189d8;
+ border-color: #0082d8;
  color: #fff;
 }
 
