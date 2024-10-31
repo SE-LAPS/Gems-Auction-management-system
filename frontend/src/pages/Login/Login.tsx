@@ -42,7 +42,7 @@ const Login = () => {
           <Input
             label='Username'
             type='text'
-            placeHolder='Themiya'
+            placeHolder='Enter Your Username'
             id='username'
             name='username'
             value={username}
@@ -54,7 +54,7 @@ const Login = () => {
           <Input
             label='Password'
             type='password'
-            placeHolder='Password@123'
+            placeHolder='Enter Your Password'
             id='password'
             name='password'
             value={password}
