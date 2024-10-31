@@ -10,8 +10,7 @@ const Feature = () => {
           <div className='section-title3'>
             <h2>Highlight Featured</h2>
             <p>
-              Feel free adapt this based one the specifical managed services,
-              features auctions
+            From Rough to Radiant – Bid on Gems That Captivate.
             </p>
           </div>
         </Col>
