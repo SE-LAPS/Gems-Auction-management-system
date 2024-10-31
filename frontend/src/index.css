@@ -5,7 +5,7 @@
 :root {
   --font-dmsans: "DM Sans", sans-serif;
   --font-playfair: "Playfair Display", serif;
-  --primary-color: #01aa85;
+  --primary-color: #0088ff;
   --primary-color-opc: 1, 170, 133;
   --primary-color2: #0b0c0c;
   --primary-color2-opc: 11, 12, 12;
@@ -15,17 +15,17 @@
   --primary-color4-opc: 36, 83, 212;
   --primary-color5: #dcf263;
   --primary-color5-opc: 220, 242, 99;
-  --primary-color6: #3c5037;
+  --primary-color6: #003376;
   --primary-color6-opc: 60, 80, 55;
   --primary-color7: #63ab45;
   --primary-color7-opc: 99, 171, 69;
   --title-color: #0b0c0c;
   --title-color-opc: 11, 12, 12;
-  --title-color2: #3c5037;
+  --title-color2: #373f50;
   --title-color2-opc: 60, 80, 55;
   --white-color: #fff;
   --paragraph-color: #23291fbb;
-  --paragraph-color2: #5e5e5e;
+  --paragraph-color2: #002db6;
   --border-color: #e6e6e6;
   --border-color-opc: 230, 230, 230;
   --border-color2: #eee;
@@ -36,12 +36,12 @@
   --bs-red: #dc3545;
   --bs-orange: #fd7e14;
   --bs-yellow: #ffc107;
-  --bs-green: #198754;
-  --bs-teal: #20c997;
+  --bs-green: #194c87;
+  --bs-teal: #2055c9;
   --bs-cyan: #0dcaf0;
   --bs-black: #000;
   --bs-white: #fff;
-  --bs-gray: #6c757d;
+  --bs-gray: #004887;
   --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
   --bs-gray-200: #e9ecef;
@@ -54,7 +54,7 @@
   --bs-gray-900: #212529;
   --bs-primary: #0d6efd;
   --bs-secondary: #6c757d;
-  --bs-success: #198754;
+  --bs-success: #193e87;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
@@ -71,8 +71,8 @@
   --bs-primary-text-emphasis: #052c65;
   --bs-secondary-text-emphasis: #2b2f32;
   --bs-success-text-emphasis: #0a3622;
-  --bs-info-text-emphasis: #055160;
-  --bs-warning-text-emphasis: #664d03;
+  --bs-info-text-emphasis: #052560;
+  --bs-warning-text-emphasis: #030b66;
   --bs-danger-text-emphasis: #58151c;
   --bs-light-text-emphasis: #495057;
   --bs-dark-text-emphasis: #495057;
@@ -91,7 +91,7 @@
   --bs-warning-border-subtle: #ffe69c;
   --bs-danger-border-subtle: #f1aeb5;
   --bs-light-border-subtle: #e9ecef;
-  --bs-dark-border-subtle: #adb5bd;
+  --bs-dark-border-subtle: #003d7a;
   --bs-white-rgb: 255, 255, 255;
   --bs-black-rgb: 0, 0, 0;
 }
