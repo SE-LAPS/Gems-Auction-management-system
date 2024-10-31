@@ -70,7 +70,7 @@ const Signup = () => {
           <Input
             label='Username'
             type='text'
-            placeHolder='Themiya'
+            placeHolder='Enter Your Username'
             id='username'
             name='username'
             value={username}
@@ -82,7 +82,7 @@ const Signup = () => {
           <Input
             label='Phone'
             type='text'
-            placeHolder='+943483934'
+            placeHolder='Enter Your Mobile Number'
             id='phone'
             name='phone'
             value={phone}
@@ -94,7 +94,7 @@ const Signup = () => {
           <Input
             label='Email'
             type='email'
-            placeHolder='example@gmail.com'
+            placeHolder='Enter Your E-mail'
             id='email'
             name='email'
             value={email}
@@ -106,7 +106,7 @@ const Signup = () => {
           <Input
             label='Password'
             type='password'
-            placeHolder='Password@123'
+            placeHolder='Enter Your password'
             id='password'
             name='password'
             value={password}
@@ -118,7 +118,7 @@ const Signup = () => {
           <Input
             label='Confirm Password'
             type='password'
-            placeHolder='Password@123'
+            placeHolder='Confirm Your Password'
             id='cpassword'
             name='cpassword'
             value={confirmPassword}
