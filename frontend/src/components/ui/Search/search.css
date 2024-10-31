@@ -23,7 +23,7 @@
 }
 
 .search-form .form-inner-search input {
- border: 1px solid hsla(0, 0%, 90%, .2);
+ border: 1px solid hsla(0, 0%, 90%, 0.55);
  border-radius: 5px 0 0 5px;
  background-color: transparent;
  height: 48px;
@@ -37,7 +37,7 @@
 
 .search-form .form-inner-search .search-btn {
  padding: 14px 33px;
- background-color: #01aa85;
+ background-color: #0177aa;
  border-radius: 0 5px 5px 0;
  border: none;
  overflow: hidden;
